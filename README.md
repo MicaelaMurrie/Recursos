@@ -2,6 +2,8 @@
 
 Una colección de herramientas, recursos y plataformas para desarrolladores y diseñadores web. Agrupados por categorías para encontrar justo lo que necesitás. ✨
 
+⭐ Si te resulta útil, dejá una estrellita al repo para encontrarlo cuando lo necesites ¡Gracias! 🙌
+
 ---
 
 ## 🧱 HTML y Accesibilidad
