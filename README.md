@@ -18,7 +18,7 @@ Una colección de herramientas, recursos y plataformas para desarrolladores y di
 
 ## 👋 Markdown
 
-- [Profile Readme Generator](https://profile-readme-generator.com/) – Generador de readme.md para tu Github
+- [Profile Readme Generator](https://profile-readme-generator.com/) – Generador de readme.md para tu Github.
 
 ---
 
@@ -38,14 +38,14 @@ Una colección de herramientas, recursos y plataformas para desarrolladores y di
 - [Cool Contrast](https://coolcontrast.vercel.app/) – Chequea el contraste entre dos colores.
 - [Shape Divider](https://www.shapedivider.app/) – Creador de divisores decorativos entre secciones.
 - [CSS Loaders](https://cssloaders.github.io/) – Loaders hechos en puro CSS.
-- [Animista](https://animista.net/play/attention) - Generador visual de animaciones
-- [Flexbox Lab](https://flexboxlabs.netlify.app/) - Generador visual de CSS flex
+- [Animista](https://animista.net/play/attention) - Generador visual de animaciones.
+- [Flexbox Lab](https://flexboxlabs.netlify.app/) - Generador visual de CSS flex.
 
 ---
 
 ## 😃 React
 
-- [Reactbits](https://www.reactbits.dev/) – Componentes React con diferentes efectos
+- [Reactbits](https://www.reactbits.dev/) – Componentes React con diferentes efectos.
 
 ---
 
@@ -60,7 +60,7 @@ Una colección de herramientas, recursos y plataformas para desarrolladores y di
 
 - [Uiverse](https://uiverse.io/) – Biblioteca de componentes UI open source con HTML/CSS/JS.
 - [W3Schools How-To](https://www.w3schools.com/howto/default.asp) – Ejemplos prácticos de funcionalidades web (menús, sliders, etc.).
-- [Toolfolio](https://toolfolio.io/) – Colección de herramientas para crear portfolio
+- [Toolfolio](https://toolfolio.io/) – Colección de herramientas para crear portfolio.
 
 ---
 
